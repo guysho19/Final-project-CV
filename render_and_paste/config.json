@@ -1,0 +1,34 @@
+{
+    "needle_holders": [
+        "/datashare/project/surgical_tools_models/needle_holder/NH1.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH2.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH3.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH4.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH5.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH6.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH7.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH8.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH9.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH10.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH11.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH12.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH13.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH14.obj",
+        "/datashare/project/surgical_tools_models/needle_holder/NH15.obj"
+    ],
+    "tweezers": [
+        "/datashare/project/surgical_tools_models/tweezers/T1.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T2.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T3.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T4.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T5.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T6.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T7.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T8.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T9.obj",
+        "/datashare/project/surgical_tools_models/tweezers/T10.obj"
+    ],
+    "camera_params": "/datashare/project/camera.json",
+    "output_dir": "/home/student/hw2_cv/render_and_paste/BothHandsPlusTools2/output",
+    "num_images": 1000
+}
