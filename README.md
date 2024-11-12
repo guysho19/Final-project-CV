@@ -2,8 +2,7 @@
 Image segmentation system for surgical instruments using synthetic data generation and domain adaptation techniques.
 
 ## To install the required dependencies, run the following command:
-```bash
-pip install -r requirements.txt && exit
+pip install -r requirements.txt 
 
 ## Vidoes link:
 https://technionmail-my.sharepoint.com/:f:/r/personal/guy_shoef_campus_technion_ac_il/Documents/Final_project_cv_videos?csf=1&web=1&e=v6pDIJ
