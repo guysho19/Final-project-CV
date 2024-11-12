@@ -2,6 +2,7 @@
 Image segmentation system for surgical instruments using synthetic data generation and domain adaptation techniques.
 
 In order to download the requirements file write in you environment:
+
 pip install -r requirements.txt
 
 Vidoes link:
