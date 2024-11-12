@@ -18,5 +18,5 @@ predict.py - prediction of model on an image
 video.py - prediction of the model on a video
 
 ## Model before domain adaptation and after weights link:
-[Download best.pt](https://www.dropbox.com/scl/fo/yvzc8eorsxjang8xxlidy/AIQHsWte6Eq1uU5w92-t4R0?rlkey=jorn72d4pw208stuyp8v4k3cx&st=pyimjh77&dl=0)
+[Download models weights](https://www.dropbox.com/scl/fo/yvzc8eorsxjang8xxlidy/AIQHsWte6Eq1uU5w92-t4R0?rlkey=jorn72d4pw208stuyp8v4k3cx&st=pyimjh77&dl=0)
 
